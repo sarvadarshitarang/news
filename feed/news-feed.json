@@ -2,7 +2,7 @@
   "meta": {
     "title": "SarvadarshiTarang News Feed",
     "description": "Latest news and updates",
-    "last_updated": "2026-02-13T08:35:54.735343",
+    "last_updated": "2026-02-13T09:37:16.331476",
     "total_articles": 5,
     "version": "1.0"
   },
@@ -39,16 +39,16 @@
     },
     {
       "id": "2026-02-13-Sundarakanda",
-      "title": "5 Lakh Sundarakanda Parayana planned",
-      "description": "Beautiful native-like experience on both Android and iOS, with smooth animations and offline support coming soon.",
+      "title": "Sundarakanda Abhiyana for 5 Lakh counts",
+      "description": "You heard it right, from Feb 2026 to Feb 2027, Sundarakanda abhiyana to complete 5 lakh count started!!!",
       "image": {
-        "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=400&fit=crop",
-        "alt": "Mobile phone"
+        "url": "https://images.unsplash.com/photo-1700985958167-bd78e5107f84?w=800&h=400&fit=crop",
+        "alt": "Hanuman"
       },
       "date": "2026-02-13",
-      "author": "Product Team",
-      "category": "Tech",
-      "content": "<p>## Built for Mobile Devices</p><p>SarvadarshiTarang is designed with <strong>mobile users</strong> as the primary audience.</p><p>### Native-Like Performance</p><p>- ⚡ <strong>Fast Loading</strong> - Optimized images and code\n- 🎨 <strong>Beautiful UI</strong> - Material Design on Android, Cupertino on iOS\n- 📱 <strong>Responsive</strong> - Adapts to all screen sizes\n- 🌙 <strong>Dark Mode</strong> - Easy on the eyes</p><p>### Features</p><p>#### Share Functionality\n- Take <strong>screenshots</strong> of articles\n- Share to <strong>WhatsApp</strong>, <strong>Twitter</strong>, <strong>Facebook</strong>\n- Copy links instantly</p><p>#### Reading Experience\n- Clean, distraction-free interface\n- Category-based filtering\n- Quick read time estimates\n- Pull-to-refresh</p><p>#### Coming Soon\n- 🔔 <strong>Push Notifications</strong> (Firebase)\n- 💾 <strong>Offline Reading</strong>\n- 🔖 <strong>Bookmarks</strong>\n- 🔍 <strong>Search</strong></p><p><strong>Download from Play Store or App Store soon!</strong>\n</p>",
+      "author": "Madhavarao",
+      "category": "Dvaita Consciousness",
+      "content": "<p>## For social welfare and initiative by Kudali Arya Akshobhya Matha</p><p>Sri Raghuvijaya Teertharu of Shree Kudli Aarya Akshobhya Teerth Matha has called for 5 Lakh counts of Sundarakanda Parayana by devotees</p><p>### Details</p><p>- ⚡ <strong>Period</strong> - Feb 2026 to Feb 2027\n- 🎨 <strong>Purpose</strong> - For social welfare and bless sajjanas with Sadhana siddhi</p><p>#### Your role\n- 🔔 <strong>Enroll yourself to the group</strong>\n- 💾 <strong>Save your chanting count for a week</strong>\n- 🔖 <strong>Report the count with your name</strong></p><p><strong>Sarve Jana Sukhino Bhavantu</strong>\n</p>",
       "blog_url": "https://sarvadarshitarang.blogspot.com/2025/01/madhwa-sadhakaru-kashi-hanumantdaasaru.html",
       "read_time": 5
     },
