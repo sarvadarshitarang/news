@@ -9,19 +9,19 @@ blog_url: "https://sarvadarshitarang.blogspot.com/2025/01/madhwa-sadhakaru-kashi
 read_time: 5
 ---
 
-## For social welfare and initiative by Kudali Arya Akshobhya Matha
+For social welfare and initiative by Kudali Arya Akshobhya Matha
 
-Sri Raghuvijaya Teertharu of Shree Kudli Aarya Akshobhya Teerth Matha has called for 5 Lakh counts of Sundarakanda Parayana by devotees
+Sri Raghuvijaya Teertharu of Shree Kudli Aarya Akshobhya Teerth Matha has called for 5 Lakh counts of Sundarakanda Parayana by devotees.
 
-## Details
+**Details:**
 
-- ⚡ **Period** - Feb 2026 to Feb 2027
-- 🎨 **Purpose** - For social welfare and bless sajjanas with Sadhana siddhi
+- ⚡ **Period:** Feb 2026 to Feb 2027
+- 🎨 **Purpose:** For social welfare and bless sajjanas with Sadhana siddhi
 
-## Your role
+**Your role:**
 
-- 🔔 **Enroll yourself to the group**
-- 💾 **Save your chanting count for a week**
-- 🔖 **Report the count with your name**
+- 🔔 Enroll yourself to the group
+- 💾 Save your chanting count for a week
+- 🔖 Report the count with your name
 
 **Sarve Jana Sukhino Bhavantu** 🙏
