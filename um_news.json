@@ -1,0 +1,352 @@
+{
+  "news": {
+    "status": "ok",
+    "totalResults": 12,
+    "articles": [
+      {
+        "source": {
+          "id": "U-MUTT",
+          "name": "Sarvadarshi"
+        },
+        "id": "1",
+        "author": "Madhavarao",
+        "cardType": "panchangCard",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "title": "Todays Panchanga - Uttaradimutt",
+        "description": "\nUpcoming events in August:\n18 - Ekadashi Fasting\n21 - Upakarma and Raksha Bandhana",
+        "urlToImage": "/static/img/panchang-180821.JPG",
+        "content": "Subscribe to Sarvadarshi Taranga",
+        "url": "https://youtube.com/madhavabk"
+      },
+      {
+        "source": {
+          "id": "U-MUTT",
+          "name": "Sarvadarshi"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Today Ekadashi 18 Aug 2021",
+        "description": "It takes few months to year to go really well with practicing Ekadashi for any one who is having strong will. Ekadashi will boost your health and mind freshness. This is also proven again and again even by Science. There is a good saying - people die out of eating more and not by fasting, so practice Ekadashi and be blessed.",
+        "urlToImage": "/static/img/ekadashi.jpg",
+        "content": "TRY: Ekadashi is best for health and mind",
+        "url": "https://www.sumadhwaseva.com/festivals/ekadashi/"
+      },
+      {
+        "source": {
+          "id": "Sarvadarshi",
+          "name": "Sarvadarshi"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Free yoga Session",
+        "description": "Jyoti Trataka - is powerful Eye Yoga that will help to relieve stress, improve concentration and also very good practice if you find yourself sleepless most times. Helps a lot all IT professionals, students as well. Yoga expert Mr. Nitin Koralli will conduct this session specially for you.",
+        "urlToImage": "/static/img/nitink.jpg",
+        "content": "TRY: Enroll for free to get benefits",
+        "url": "http://satkarta.blogspot.in"
+      },
+      {
+        "source": {
+          "id": "Sarvadarshi",
+          "name": "Sarvadarshi"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Dadhi Vrata Aarambh from 18 Aug 2021",
+        "description": "Chaturmasa Vrata brings a great control over will power and also ",
+        "urlToImage": "/static/img/ekadashi.jpg",
+        "content": "TRY: Ekadashi is best for health and mind",
+        "url": "https://www.sumadhwaseva.com/festivals/ekadashi/"
+      },
+      {
+        "source": {
+          "id": "U-MUTT",
+          "name": "Sarvadarshi"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Pavitraropana - Pavitra Dhara wearing",
+        "description": "Pavitraropana is observed by all Madhwas to wear a specially knotted thread around neck on Shravana Shukla Dwadashi. This year its on 19th August 2021. This ritual enables one to get returns of their Devara Pooja performance through out the year. Hence on Dwadashi it should be submitted to GOD and then wear it with special mantras.",
+        "urlToImage": "/static/img/pavitra.jpeg",
+        "content": "PDF by: Dr. B R Venkateshachar",
+        "url": "https://drive.google.com/file/d/1AfgSecvw4Y4fTEbuF88Iwkj32PxBsOMP/view?usp=sharing"
+      },
+      {
+        "source": {
+          "id": "U-MUTT",
+          "name": "Uttaradimutt"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Various Aaradhana and doing your Seva online",
+        "description": "Please fill details regarding the seva and the Aradhana along with seva sankalpa details. The QR code for making payment using Apps like Phonepe or Google Pay is embedded in the form. The account details are also provided next to the QR code in case you want to do NEFT or IMPS payment Shravana aradhanas with single window of seva remittance facility are as follows:Sri Satyadharma Theertha Aradhana 05-09-2021 Holehonnur (near Shimoga, Karnataka)",
+        "urlToImage": "/static/img/satyavara.jpg",
+        "content": "URL of Mutt: http://bit.ly/36h2kLP",
+        "url": "http://bit.ly/36h2kLP"
+      },
+      {
+        "source": {
+          "id": "U-MUTT",
+          "name": "Uttaradimutt"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Sri Satyavara Teerthara Aaradhana",
+        "description": "Sri Sathyavara Theertha was a great Jnani and an unparalleled exponent of Dvaita Siddantha (propounded by none other than the Sriman Anandatheertha Bhagavatpadacharya). Sri Sathyadharma Theertha, (Sri Sathyavara Theertha’s successor) who is well known for HIS treatises and tippanis quotes the following in one of HIS works as This work’s credit is not mine rather the entire credit should be given to Sri Sathyavara Theertha whose abundant blessings has made me write the same as how a father would make his son write",
+        "urlToImage": "/static/img/satyavara.jpg",
+        "content": "Place: Santebidanoor, Karnataka",
+        "url": "https://www.uttaradimath.org/parampara/sri-satyavara-theertha"
+      },
+      {
+        "source": {
+          "id": "Satkarta",
+          "name": "Satkarta"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Happy 75th Independence day!",
+        "description": "India/Bharath Bhoomi celebrates its 75th Independence Day today. This is very auspicious day in India when bad ruler British went out of India. While British might have left India but they have not gone away from our culture and mind. We still follow them very strictly and every house remember our slavery whenever a cake is cut! India has to grow beyond this following blind British culture and grow to its esteem and pride by our young people. Lets celebrate this day with lots of future plans and vision for country.",
+        "urlToImage": "/static/img/iday.jpg",
+        "content": "Happy Independence day",
+        "url": ""
+      },
+      {
+        "source": {
+          "id": "Satkarta",
+          "name": "Satkarta"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Know real meaning on Upanayana",
+        "description": "It is important to understand true meaning of Upanayana to protect our Brahmanya and also pass on such important dharma to next generation. Having sanatana dharma study and having guru are two main concepts of this festival.",
+        "urlToImage": "/static/img/upanayana.jpg",
+        "content": "Date: 21 August 2021",
+        "url": "https://www.sumadhwaseva.com/festivals/upakarma/"
+      },
+      {
+        "source": {
+          "id": "U-MUTT",
+          "name": "Uttaradimutt"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Go Shalas that need your support",
+        "description": "Protecting cows is one of the principle responsiblities of any soul on this earth. Specially for Madhwas its important. There are many well run and transperant goshala that you can support. \nYelaguru Goshala\nBadami Goshala\nNeelavar Goshala",
+        "urlToImage": "/static/img/goshala.jpg",
+        "content": "Subscribe to Sarvadarshi Taranga",
+        "url": "https://www.uttaradimath.org/pramodatma-go-shala"
+      },
+      {
+        "source": {
+          "id": "Satkarta",
+          "name": "Satkarta"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-12T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "We are missing broad thinking leaders within community",
+        "description": "Who is leader? One who thinks of mass benefits. We see people grow, make assets and then what? They hold all assets to themself now. This has to break and create opportunity for others to grow, think beyond festival, feasts into whats next for community?",
+        "urlToImage": "/static/img/leader.jpg",
+        "content": "Subscribe to Sarvadarshi Taranga",
+        "url": "https://asia.nikkei.com/Opinion/India-s-billionaires-lack-the-ambition-of-their-Western-counterparts"
+      },
+      {
+        "source": {
+          "id": "Satkarta",
+          "name": "Satkarta"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "12 August Naga Chaturthi & Panchami",
+        "description": "Naga chathurthi falls on Sravana Maasa Sukhla paksha chathurdhi followed by Garuda panchami the next day. This pooja has to be performed by men and women. This is a very important pooja for ladies. for the welfare of children, Mothers has to perform this pooja.",
+        "urlToImage": "/static/img/nagachaturthi.jpg",
+        "content": "Subscribe to Sarvadarshi Taranga",
+        "url": "https://madhwafestivals.com/2016/08/02/naga-chathurdhi-garuda-panchami/"
+      },
+      {
+        "source": {
+          "id": "Satkarta",
+          "name": "Satkarta"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Sri Ibharampura Appavaru Aaradhana",
+        "description": "Appavaru knew the heart of Mantralaya Prabhu Sri Raghavendra, Antaranga Bhakta. By the blessings and anugrahaof Rayaru  through miracles helped abundant bhaktas. A staunch worshipper of  Panchamukhi Praanadevaru, Appavaru received Pandavapoojita Panchamukhi Hanuma by Sri Mummadi Krishnaraja Vodeyar",
+        "urlToImage": "/static/img/appavaru.jpeg",
+        "content": "Subscribe to Sarvadarshi Taranga",
+        "url": "http://madhwamrutha.org/sri-ibharampura-appavaru/"
+      },
+      {
+        "source": {
+          "id": "U-MUTT",
+          "name": "Uttaradimutt"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Sri Sudha - spiritual partner for life",
+        "description": "A great book is more than any friends in life, as saying goes you cannot have any better book than the books which gives thoughts of Lord Vishnu and Bhagavatha jnana. Sri Sudha is most effective family member to be successful in life. Get your copy soon - 8762629132",
+        "urlToImage": "/static/img/srisudha.JPG",
+        "content": "Follow Sarvadarshi News - Madhwa Channel",
+        "url": "http://www.srijspn.org/srisudha.html"
+      },
+      {
+        "source": {
+          "id": "Satkarta",
+          "name": "Satkarta"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Skill yourself to get a job",
+        "description": "While many young talent not getting job in community, there are large number of requirements open at big organizations where they are not getting right candidates. The gap is due to skills missing in candidates to perform basic job in a company vs. their school projects. Get trained rightly to get better jobs.",
+        "urlToImage": "/static/img/jobs.jpg",
+        "content": "Reach me for guidance madhavabk@gmail.com",
+        "url": "https://www.uttaradimath.org/pramodatma-go-shala"
+      },
+      {
+        "source": {
+          "id": "Satkarta",
+          "name": "Satkarta"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T06:09:00Z",
+        "cardType": "panchangCard",
+        "title": "Rajajinagar see a new Gurukula to give kids basics for free",
+        "description": "Pt. Vadirajachar Deshpande, who graduated from Sri Vedesh Teerth - Sri Madhav teerth Vidyapeeth, Mannur started a small initiative named as Rajajinagar Gurukula to train kids on basics of Madhwa Sampradaya for kids. This has seen almost 25 kids now getting basic mantra, slokas and shistachar trainings. During pandemic situation group used online meeting facilities to run the weekly classes. This is done for FREE and interested parents can talk to Pt. Vadirajachar to join their kids to this.",
+        "content": "Cont Pt.Vadirajachar at 9902155407",
+        "urlToImage": "/static/img/gurukula.jpg",
+        "url": "https://satkarta.blogspot.com/2019/12/satkarta-gurukula-at-rajajinagar-free.html"
+      },
+	  {
+        "source": {
+          "id": "Satkarta",
+          "name": "Satkarta"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T06:09:00Z",
+        "cardType": "panchangCard",
+        "title": "Call for actions and leads",
+        "description": "We see lots of foundations heading up and taking our money in the name of society and benefit others. Why dont some of energetic young people start few things like - Child Foundation, Blind Foundations, Youth Seva groups. This helps to run transformational work in Madhwa Society and we can be self sufficient and reliant and proud. Today one of other way you all do it indirectly for others whhere funds used for conversions etc. \"Dont Cry rather Try\"",
+        "content": "TIPS: Dont think you cannot do, do it",
+        "urlToImage": "/static/img/social.jpg",
+        "url": "https://www.giveindia.org/certified-indian-ngos"
+      },
+      {
+        "source": {
+          "id": "U-MUTT",
+          "name": "Uttaradimutt"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Grand Tulasi Vana of Volunteers at Magadi Road",
+        "description": "There is grand Tulasi vana purely run by volunteers and serves tulasi to manay occasions. This vana is brain child of one of the volunteers Sri Sudheendra Katte and supported by many volunteers. Every weekend there are volunteer efforts to pluck tulasi dala and also clean the field, remove weeds and remove seeds etc. Each volunteer feels great service here. Such work need to be well supported by the society more and more.",
+        "urlToImage": "/static/img/tulasivana.jpeg",
+        "url": "https://www.uttaradimath.org/"
+      },
+      {
+        "source": {
+          "id": "Satkarta",
+          "name": "Satkarta"
+        },
+        "id": "1",
+        "author": "Madhavarao Kulkarni",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "cardType": "panchangCard",
+        "title": "Get your softskill improved - says Neeraj",
+        "description": "For our continued success and progressive growth many skills needed, at most important one is your soft skills, this is where leaders get differentiated from ordinary people in society. Remember one who goes just small extramile is called winner while whole world forgets second, third place person in race - says Mr. Neeraj",
+        "urlToImage": "/static/img/neeraj.jpg",
+        "content": "Reach out Mr. Neeraj Kumar",
+        "url": "https://www.youtube.com/channel/UCSYRiYDTpybb1NXEQsh2Y9w"
+      },
+      {
+        "id": "3",
+        "author": "Madhavarao Kulkarni",
+        "cardType": "news",
+        "publishedAt": "2021-08-18T05:00:00Z",
+        "title": "Satkarta promoting culture of giveback",
+        "description": "Satkarta is the one unique program and leading program for crowd funding and giveback thoughts. Being in the field for 5 years now, Satkarta has completed as many as 21 projects to help Madhwas in Healthcare, educational, tough times, skill development and legal areas. Satkarta team is growing and its adding lots of volunteers day-by-day to fullfill need of large community.",
+        "urlToImage": "/static/img/satkarta_card.png",
+        "url": "http://satkarta.blogspot.com"
+      },
+      {
+        "id": "6",
+        "author": "Madhavarao Kulkarni",
+        "cardType": "panchangCard",
+        "publishedAt": "2021-08-09T05:00:00Z",
+        "title": "Subscribe to Sarvadarshi Taranga for more",
+        "description": "Sarvadarshi Taranga - fully focused to provide you a NON-BREAKING, non-contraversial news that helps to be always connected with Madhwa community and also to specific mutt that you belong to. This also bring lots of information from within such a great community where you can find programs, sales, events, volunteer opportunity, give-back to community, panchanga, special days, aaradhana information, voting for specific topics, kids corners, Tatva/Sidhantha corner to learn and enhance your knowledge",
+        "urlToImage": "/static/img/sarvadarshi.png",
+        "url": "https://youtube.com/madhavabk"
+      },
+      {
+        "id": "7",
+        "author": "Madhavarao Kulkarni",
+        "cardType": "panchangCard",
+        "publishedAt": "2021-08-09T05:00:00Z",
+        "title": "Madhwa Siddhantha - Pancha Bheda",
+        "description": "Madhwa siddhantha is the only that explains the world very well with 5 important principles. If those were not existing then understanding of this world becomes such a puzzle. Today's world counts a lot on diversity and unity out of it. But if we say siddhantha is wrong then how to accept present world diversity itself?",
+        "urlToImage": "/static/img/7.jpg",
+        "url": "https://youtube.com/madhavabk"
+      },
+      {
+        "id": "8",
+        "author": "Madhavarao Kulkarni",
+        "cardType": "panchangCard",
+        "publishedAt": "2021-08-09T05:00:00Z",
+        "title": "While you work from home and irritated with kids!!!",
+        "description": "The care, love and affection that we give to kids are to be driven out of core principles of Madhwa Siddhantha. If one says i am growing up my kids smartly then be responsible if kids to mistake to accept it as your mistakes. While GOD within you does this work even if you dont remember him, but if you find kids are little Krishna whom you are doing a care, love and affection service it reaches to GOD surely.",
+        "urlToImage": "/static/img/22.jpg",
+        "url": "https://youtube.com/madhavabk"
+      },
+      {
+        "id": "9",
+        "author": "Madhavarao Kulkarni",
+        "cardType": "panchangCard",
+        "publishedAt": "2021-08-09T05:00:00Z",
+        "title": "Donate to Satkarta where transperancy matters",
+        "description": "Satkarta is the one unique program and leading program for crowd funding and giveback thoughts. Being in the field for 5 years now, Satkarta has completed as many as 21 projects to help Madhwas in Healthcare, educational, tough times, skill development and legal areas. Satkarta team is growing and its adding lots of volunteers day-by-day to fullfill need of large community.",
+        "urlToImage": "/static/img/9.jpg",
+        "url": "https://youtube.com/madhavabk"
+      },
+      {
+        "id": "10",
+        "author": "Madhavarao Kulkarni",
+        "cardType": "panchangCard",
+        "publishedAt": "2021-08-09T05:00:00Z",
+        "title": "Expose your kids to rituals for their better future",
+        "description": "If we dont give opportunity to our kids to learn from work they either dont learn them or they are eager to learn elsewhere. Organizing events is one of the skills where many adults would love, if you have not given in future may in their school, offices they do it. But if you give them responsibility to organize, evolve think and make one festival at home fully!!! that makes them more learning and responsbile citizen at home itself...",
+        "urlToImage": "/static/img/17.jpg",
+        "url": "https://youtube.com/madhavabk"
+      }
+    ]
+  }
+}
