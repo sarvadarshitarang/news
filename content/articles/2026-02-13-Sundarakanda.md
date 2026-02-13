@@ -1,6 +1,6 @@
 ---
 title: "Sundarakanda Abhiyana for 5 Lakh counts"
-description: "You heard it right, from Feb 2026 to Feb 2027, Sundarakanda abhiyana to complete 5 lakh count started!!!"
+description: "You heard it right from Feb 2026 to Feb 2027, Sundarakanda abhiyana to complete 5 lakh counts"
 author: "Madhavarao"
 category: "Dvaita Consciousness"
 image_url: "https://images.unsplash.com/photo-1700985958167-bd78e5107f84?w=800&h=400&fit=crop"
@@ -22,5 +22,3 @@ Sri Raghuvijaya Teertharu of Shree Kudli Aarya Akshobhya Teerth Matha has called
 - 🔔 **Enroll yourself to the group**
 - 💾 **Save your chanting count for a week**
 - 🔖 **Report the count with your name**
-
-**Sarve Jana Sukhino Bhavantu**
