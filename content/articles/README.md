@@ -2,6 +2,8 @@
 
 This folder contains all your news articles in Markdown format.
 
+> 📖 **Full Guide Available:** See [ARTICLE_WRITING_GUIDE.md](../../ARTICLE_WRITING_GUIDE.md) for complete details on writing and publishing articles!
+
 ## 📝 How to Add Articles
 
 ### 1. Create New File
