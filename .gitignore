@@ -1,0 +1,93 @@
+# Dart/Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+*.packages
+.pub-cache/
+.pub/
+build/
+pubspec.lock
+
+# iOS
+ios/Pods/
+ios/Podfile.lock
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/.generated/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/GeneratedPluginRegistrant.*
+
+# Android
+android/.gradle/
+android/.gradle
+android/build/
+android/local.properties
+android/gradlew
+android/gradlew.bat
+.android/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Misc
+/.packages
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/out
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+firebase_config.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Secrets
+*.key
+*.pem
+*.cert
+*.crt
+secrets/
+credentials.json
+
+# Generated
+dist/
+node_modules/
+.next/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Personal
+.idea/
+.vscode/settings.json

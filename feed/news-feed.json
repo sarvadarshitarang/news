@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "title": "SarvadarshiTarang News Feed",
+    "description": "Latest news and updates",
+    "last_updated": "2026-02-13T12:32:29.614827",
+    "total_articles": 4,
+    "version": "1.0"
+  },
+  "articles": [
+    {
+      "id": "2026-02-13-welcome",
+      "title": "Welcome to SarvadarshiTarang!",
+      "description": "Your free, serverless news app powered by GitHub. Start publishing news articles with zero hosting costs.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&h=400&fit=crop",
+        "alt": "News and technology"
+      },
+      "date": "2026-02-13",
+      "author": "SarvadarshiTarang Team",
+      "category": "Tech",
+      "content": "<p>Welcome to <strong>SarvadarshiTarang</strong>, your modern news platform that runs entirely for free!</p><p>## What Makes This Special?</p><p>This is not just another news app. It's a complete serverless architecture that costs you <strong>absolutely nothing</strong> to run:</p><p>- ✅ <strong>GitHub</strong> - Free hosting for content and code\n- ✅ <strong>GitHub Pages</strong> - Free CDN for your app and JSON feed\n- ✅ <strong>GitHub Actions</strong> - Free automation (2000 minutes/month)\n- ✅ <strong>Flutter</strong> - Build once, deploy everywhere</p><p>## How It Works</p><p>1. <strong>Write</strong> articles in Markdown format\n2. <strong>Commit</strong> to your GitHub repository\n3. <strong>Automated</strong> conversion to JSON feed\n4. <strong>Instant</strong> updates in your app</p><p>No servers, no databases, no monthly bills!</p><p>## Getting Started</p><p>Check out the documentation in the repository to start publishing your first article. It's as simple as creating a markdown file!</p><p><strong>Ready to revolutionize news publishing?</strong> Start creating content today!\n</p>",
+      "blog_url": "https://github.com/yourusername/SarvadarshiTarang",
+      "read_time": 3
+    },
+    {
+      "id": "2026-02-13-example-article",
+      "title": "Breaking News: New AI Model Breakthrough",
+      "description": "Researchers announce groundbreaking AI with unprecedented capabilities",
+      "image": {
+        "url": "",
+        "alt": "Breaking News: New AI Model Breakthrough"
+      },
+      "date": "2026-02-13",
+      "author": "Tech Reporter",
+      "category": "Tech",
+      "content": "<p># Breaking News: New AI Model Breakthrough</p><p>In a stunning development that could reshape multiple industries, researchers today unveiled a revolutionary artificial intelligence model with capabilities previously thought impossible.</p><p>## The Announcement</p><p>The new model, developed by a team of researchers, represents a significant leap forward in AI technology. Early testing shows:</p><p>- <strong>50% improvement</strong> in accuracy\n- <strong>10x faster</strong> processing speed\n- <strong>Lower power</strong> consumption\n- <strong>Better generalization</strong> across tasks</p><p>## What This Means</p><p>Industry experts are calling this a watershed moment. Dr. Sarah Chen, a leading AI researcher, comments:</p><p>> \"This breakthrough could accelerate innovation across healthcare, transportation, and education. We're looking at practical applications within months, not years.\"</p><p>## Key Features</p><p>1. <strong>Improved Reasoning</strong>: Better handles complex multi-step problems\n2. <strong>Reduced Bias</strong>: More equitable across demographic groups\n3. <strong>Open Source</strong>: Code will be made available to researchers worldwide\n4. <strong>Energy Efficient</strong>: Runs on standard hardware</p><p>## Timeline</p><p>- <strong>Today</strong>: Initial announcement\n- <strong>Next week</strong>: Detailed white paper release\n- <strong>March</strong>: Open source availability\n- <strong>June</strong>: Commercial deployment expected</p><p>## Expert Reactions</p><p>The response from the tech community has been overwhelmingly positive:</p><p>- <strong>OpenAI</strong>: \"Game-changing advancement\"\n- <strong>Google</strong>: \"Validates our research direction\"\n- <strong>Academic institutions</strong>: Race to implement new techniques</p><p>---</p><p>## Read More</p><p>For detailed technical analysis and implications, <strong>[read the full article on our blog →](https://yourblog.com/ai-breakthrough)</strong></p><p><em>This is an in-shorts summary. Find the complete analysis with expert interviews and data visualizations on our blog.</em>\n</p>",
+      "blog_url": "https://yourblog.com/ai-breakthrough",
+      "read_time": 5
+    },
+    {
+      "id": "2026-02-12-collaboration",
+      "title": "Team Collaboration Made Easy",
+      "description": "Learn how multiple team members can contribute articles through GitHub pull requests, with approval workflows built-in.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=400&fit=crop",
+        "alt": "Team collaboration"
+      },
+      "date": "2026-02-12",
+      "author": "Editorial Team",
+      "category": "Business",
+      "content": "<p>## Multi-Author Publishing Platform</p><p>SarvadarshiTarang supports <strong>collaborative content creation</strong> with built-in approval workflows.</p><p>### How Team Collaboration Works</p><p>1. <strong>Team Members</strong> create articles in their branches\n2. <strong>Submit</strong> pull requests for review\n3. <strong>Reviewers</strong> check content, suggest edits\n4. <strong>Approve</strong> and merge to publish instantly</p><p>### Benefits</p><p>- 📝 <strong>Version Control</strong> - Complete history of all changes\n- 👥 <strong>Multi-Author</strong> - Unlimited team members\n- ✅ <strong>Quality Control</strong> - Review before publish\n- 🔄 <strong>Easy Revisions</strong> - Roll back if needed</p><p>### No Special Software Needed</p><p>Your team can contribute using:\n- GitHub web interface (no coding required)\n- Desktop GitHub app\n- Command line (for developers)</p><p><strong>Perfect for news organizations, blogs, and content teams!</strong>\n</p>",
+      "blog_url": "https://yourblog.com/collaboration",
+      "read_time": 4
+    },
+    {
+      "id": "2026-02-11-mobile-first",
+      "title": "Mobile-First News Experience",
+      "description": "Beautiful native-like experience on both Android and iOS, with smooth animations and offline support coming soon.",
+      "image": {
+        "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=400&fit=crop",
+        "alt": "Mobile phone"
+      },
+      "date": "2026-02-11",
+      "author": "Product Team",
+      "category": "Tech",
+      "content": "<p>## Built for Mobile Devices</p><p>SarvadarshiTarang is designed with <strong>mobile users</strong> as the primary audience.</p><p>### Native-Like Performance</p><p>- ⚡ <strong>Fast Loading</strong> - Optimized images and code\n- 🎨 <strong>Beautiful UI</strong> - Material Design on Android, Cupertino on iOS\n- 📱 <strong>Responsive</strong> - Adapts to all screen sizes\n- 🌙 <strong>Dark Mode</strong> - Easy on the eyes</p><p>### Features</p><p>#### Share Functionality\n- Take <strong>screenshots</strong> of articles\n- Share to <strong>WhatsApp</strong>, <strong>Twitter</strong>, <strong>Facebook</strong>\n- Copy links instantly</p><p>#### Reading Experience\n- Clean, distraction-free interface\n- Category-based filtering\n- Quick read time estimates\n- Pull-to-refresh</p><p>#### Coming Soon\n- 🔔 <strong>Push Notifications</strong> (Firebase)\n- 💾 <strong>Offline Reading</strong>\n- 🔖 <strong>Bookmarks</strong>\n- 🔍 <strong>Search</strong></p><p><strong>Download from Play Store or App Store soon!</strong>\n</p>",
+      "blog_url": "https://yourblog.com/mobile-first",
+      "read_time": 5
+    }
+  ]
+}

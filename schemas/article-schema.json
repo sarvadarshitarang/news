@@ -1,0 +1,190 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SarvadarshiTarang Article Schema",
+  "description": "JSON schema for news articles in the SarvadarshiTarang feed",
+  "type": "object",
+  "required": ["meta", "articles"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "description": "Feed metadata",
+      "required": ["name", "description", "url", "generated_at", "total_articles"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Feed name",
+          "example": "SarvadarshiTarang"
+        },
+        "description": {
+          "type": "string",
+          "description": "Feed description",
+          "example": "Daily news in shorts"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL to this feed",
+          "example": "https://raw.githubusercontent.com/username/SarvadarshiTarang/main/dist/feed.json"
+        },
+        "generated_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When feed was generated",
+          "example": "2026-02-13T10:30:00Z"
+        },
+        "total_articles": {
+          "type": "integer",
+          "description": "Total articles in feed",
+          "minimum": 0,
+          "example": 15
+        }
+      }
+    },
+    "articles": {
+      "type": "array",
+      "description": "Array of news articles",
+      "items": {
+        "$ref": "#/definitions/Article"
+      }
+    }
+  },
+  "definitions": {
+    "Article": {
+      "type": "object",
+      "description": "A single news article",
+      "required": [
+        "id",
+        "title",
+        "description",
+        "image",
+        "date",
+        "author",
+        "category",
+        "content",
+        "blog_url",
+        "read_time"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique article identifier (from filename slug)",
+          "example": "2026-02-13-breaking-news",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}-[a-z0-9-]+$"
+        },
+        "title": {
+          "type": "string",
+          "description": "Article title (max 70 chars)",
+          "example": "Breaking News: New AI Model Released",
+          "maxLength": 70
+        },
+        "description": {
+          "type": "string",
+          "description": "Short summary for feed (max 100 chars)",
+          "example": "Researchers announce groundbreaking AI capabilities",
+          "maxLength": 100
+        },
+        "image": {
+          "$ref": "#/definitions/ArticleImage"
+        },
+        "date": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Publication date in ISO 8601 format",
+          "example": "2026-02-13T00:00:00Z"
+        },
+        "author": {
+          "type": "string",
+          "description": "Article author name",
+          "example": "John Doe"
+        },
+        "category": {
+          "type": "string",
+          "description": "Article category",
+          "enum": [
+            "Tech",
+            "Business",
+            "Politics",
+            "Sports",
+            "Entertainment",
+            "Science",
+            "Health",
+            "World",
+            "Local",
+            "Opinion"
+          ]
+        },
+        "content": {
+          "type": "string",
+          "description": "Full article content (HTML)",
+          "example": "<p>Article body in HTML...</p>"
+        },
+        "blog_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Link to full article on blog",
+          "example": "https://yourblog.com/breaking-news-article"
+        },
+        "read_time": {
+          "type": "integer",
+          "description": "Estimated reading time in minutes",
+          "example": 5,
+          "minimum": 1,
+          "maximum": 60
+        },
+        "published_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When article was published to feed",
+          "example": "2026-02-13T10:30:45Z"
+        }
+      }
+    },
+    "ArticleImage": {
+      "type": "object",
+      "description": "Article cover image",
+      "required": ["url", "alt"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Image URL (must be publicly accessible)",
+          "example": "https://raw.githubusercontent.com/username/SarvadarshiTarang/main/content/assets/2026-02-13-breaking-news.jpg"
+        },
+        "alt": {
+          "type": "string",
+          "description": "Alt text for accessibility",
+          "example": "Scene from breaking news event"
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "meta": {
+        "name": "SarvadarshiTarang",
+        "description": "Daily news in shorts",
+        "url": "https://raw.githubusercontent.com/username/SarvadarshiTarang/main/dist/feed.json",
+        "generated_at": "2026-02-13T10:30:00Z",
+        "total_articles": 2
+      },
+      "articles": [
+        {
+          "id": "2026-02-13-breaking-news",
+          "title": "Breaking News: New AI Released",
+          "description": "Revolutionary AI model announced with unprecedented capabilities",
+          "image": {
+            "url": "https://raw.githubusercontent.com/username/SarvadarshiTarang/main/content/assets/2026-02-13-breaking-news.jpg",
+            "alt": "AI announcement event"
+          },
+          "date": "2026-02-13T09:30:00Z",
+          "author": "Tech Reporter",
+          "category": "Tech",
+          "content": "<p>Today, researchers announced...</p>",
+          "blog_url": "https://yourblog.com/breaking-news",
+          "read_time": 5,
+          "published_at": "2026-02-13T10:30:00Z"
+        }
+      ]
+    }
+  ]
+}

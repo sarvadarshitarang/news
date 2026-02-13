@@ -1,0 +1,65 @@
+name: sarvadarshi_tarang
+description: Free, serverless news app powered by GitHub. Write once, publish to iOS & Android.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # HTTP and networking
+  http: ^1.1.0
+  dio: ^5.3.0
+  
+  # JSON serialization
+  json_annotation: ^4.8.0
+  
+  # Local storage & persistence
+  shared_preferences: ^2.2.0
+  hive: ^2.2.0
+  
+  # Firebase services
+  firebase_core: ^2.24.0
+  firebase_messaging: ^14.6.0
+  firebase_analytics: ^10.7.0
+  
+  # UI & visual components
+  cached_network_image: ^3.3.0
+  shimmer: ^3.0.0
+  
+  # Navigation
+  go_router: ^12.0.0
+  
+  # Date & time formatting
+  intl: ^0.19.0
+  
+  # Notifications
+  flutter_local_notifications: ^16.1.0
+  
+  # HTML rendering (optional)
+  flutter_html: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  # Linting & code analysis
+  flutter_lints: ^2.0.0
+  
+  # Code generation
+  build_runner: ^2.4.0
+  json_serializable: ^6.7.0
+  hive_generator: ^2.0.0
+  
+  # App icons & launcher
+  flutter_launcher_icons: ^0.13.0
+
+flutter:
+  uses-material-design: true
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/app_icon.png"
