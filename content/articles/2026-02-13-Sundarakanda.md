@@ -1,42 +1,26 @@
 ---
-title: "5 Lakh Sundarakanda Parayana planned"
-description: "Beautiful native-like experience on both Android and iOS, with smooth animations and offline support coming soon."
-author: "Product Team"
-category: "Tech"
-image_url: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=400&fit=crop"
-image_alt: "Mobile phone"
+title: "Sundarakanda Abhiyana for 5 Lakh counts"
+description: "You heard it right, from Feb 2026 to Feb 2027, Sundarakanda abhiyana to complete 5 lakh count started!!!"
+author: "Madhavarao"
+category: "Dvaita Consciousness"
+image_url: "https://images.unsplash.com/photo-1700985958167-bd78e5107f84?w=800&h=400&fit=crop"
+image_alt: "Hanuman"
 blog_url: "https://sarvadarshitarang.blogspot.com/2025/01/madhwa-sadhakaru-kashi-hanumantdaasaru.html"
 read_time: 5
 ---
 
-## Built for Mobile Devices
+## For social welfare and initiative by Kudali Arya Akshobhya Matha
 
-SarvadarshiTarang is designed with **mobile users** as the primary audience.
+Sri Raghuvijaya Teertharu of Shree Kudli Aarya Akshobhya Teerth Matha has called for 5 Lakh counts of Sundarakanda Parayana by devotees
 
-### Native-Like Performance
+### Details
 
-- ⚡ **Fast Loading** - Optimized images and code
-- 🎨 **Beautiful UI** - Material Design on Android, Cupertino on iOS
-- 📱 **Responsive** - Adapts to all screen sizes
-- 🌙 **Dark Mode** - Easy on the eyes
+- ⚡ **Period** - Feb 2026 to Feb 2027
+- 🎨 **Purpose** - For social welfare and bless sajjanas with Sadhana siddhi
 
-### Features
+#### Your role
+- 🔔 **Enroll yourself to the group**
+- 💾 **Save your chanting count for a week**
+- 🔖 **Report the count with your name**
 
-#### Share Functionality
-- Take **screenshots** of articles
-- Share to **WhatsApp**, **Twitter**, **Facebook**
-- Copy links instantly
-
-#### Reading Experience
-- Clean, distraction-free interface
-- Category-based filtering
-- Quick read time estimates
-- Pull-to-refresh
-
-#### Coming Soon
-- 🔔 **Push Notifications** (Firebase)
-- 💾 **Offline Reading**
-- 🔖 **Bookmarks**
-- 🔍 **Search**
-
-**Download from Play Store or App Store soon!**
+**Sarve Jana Sukhino Bhavantu**
